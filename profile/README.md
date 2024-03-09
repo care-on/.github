@@ -1,12 +1,6 @@
-## Hi there 👋
+# (주)케어온
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔥현재 진행 중인 프로젝트
+* **AI를 활용한 다국적 창업자 서포트 플랫폼**
+  * 개발 인력 : 5명
+  * 예상 개발 기간 : 2달
